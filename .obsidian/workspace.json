@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "217c65c8efa8fd3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agregado 5.35pm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "agregado 5.35pm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "agregado 5.35pm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "agregado 5.35pm.md"
+              }
             }
           }
         ]
@@ -138,8 +155,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e8ce700552595f82",
+  "active": "217c65c8efa8fd3a",
   "lastOpenFiles": [
+    "agregado 5.35pm.md",
     "repo-prueba",
     "pruebaDocumento 2.md",
     "pruebaCarpeta/prueba documento.md",
